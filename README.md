@@ -1,5 +1,7 @@
 # SwiftLint Plugins
 
+## ML: Currently just a "fork" of the original. Update to upstream when using macOS 12 as deployment target.
+
 This repository provides the Swift Package Manager plugins (and only the plugins) that are developed as a part of
 [SwiftLint](https://github.com/realm/swiftlint). For comprehensive advice on how to integrate them into your projects
 refer to the main repository, especially [Installation](https://github.com/realm/SwiftLint#installation) and
